@@ -1,0 +1,2 @@
+# NumpyExcercises
+Introduction to Numpy
